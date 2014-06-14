@@ -1,0 +1,25 @@
+{
+  "name": "tcp-json",
+  "version": "0.0.0",
+  "description": "A node implementation of a json-based TCP client/server. Plus a few small utilities that nobody will use except me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dromar56/node-tcp-json.git"
+  },
+  "keywords": [
+    "tcp",
+    "json",
+    "client",
+    "server"
+  ],
+  "author": "David Barrutia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dromar56/node-tcp-json/issues"
+  },
+  "homepage": "https://github.com/dromar56/node-tcp-json"
+}
